@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## [3.11.0] - 2025-03-10
+- Add Virtual Memory SV-32 Address Translation Scheme Tests and Covergroups (#516)
+- Add support for Zcf and Zcd extension (#497)
+- Add support Zcd extension in RV64 (#587) 
+- Add support for Zhinx extension (#496)
+- Add support Zdinx extension (#499)
+- Add CMO Support (#578) 
+- Add Zacas support (#583)
+- Change coversion from decimal to hex (#614) 
+- Bug fixes
+
+
 ## [3.10.0] - 2024-11-04
 - Add support for Zvk* extensions
 - Split float and double test cases into smaller ones
